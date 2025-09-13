@@ -1,0 +1,111 @@
+food,category,cal_per_100g,protein_g_per_100g,carbs_g_per_100g,fat_g_per_100g,tags,allergens
+Cooked white rice,carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked brown rice,carb,111.0,2.6,23.0,0.9,grain;carb;wholegrain,
+Oats (dry),carb,389.0,16.9,66.3,6.9,grain;carb;wholegrain,gluten
+Rolled oats (cooked),carb,71.0,2.5,12.0,1.4,grain;carb,gluten
+Quinoa (cooked),carb,120.0,4.4,21.3,1.9,grain;carb;pseudo,
+Whole wheat bread,carb,247.0,13.0,41.0,4.2,carb;grain;wholegrain,gluten
+White bread,carb,265.0,9.0,49.0,3.2,carb;grain,gluten
+Pasta (cooked),carb,131.0,5.0,25.0,1.1,carb;grain,gluten
+Corn (cooked),carb,96.0,3.4,19.0,1.5,carb;vegetable,
+Sweet potato (cooked),carb,90.0,2.0,21.0,0.1,carb;vegetable,
+Potato (boiled),carb,87.0,2.0,20.0,0.1,carb;vegetable,
+Rice noodles (cooked),carb,109.0,1.8,24.0,0.4,carb;noodle,
+Cornflakes,carb,357.0,7.0,84.0,0.4,carb;cereal,
+Bread roll,carb,250.0,8.0,45.0,4.5,carb;grain,gluten
+Chicken breast (cooked),protein,165.0,31.0,0.0,3.6,meat;protein,
+Turkey breast (cooked),protein,135.0,29.0,0.0,1.5,meat;protein,
+Lean beef (cooked),protein,217.0,26.1,0.0,11.8,meat;protein,
+Pork loin (cooked),protein,195.0,27.0,0.0,8.0,meat;protein,
+Salmon (cooked),protein,208.0,20.5,0.0,13.4,fish;protein;omega3,fish
+Tuna (canned in water),protein,116.0,26.0,0.0,0.9,fish;protein,fish
+Shrimp (cooked),protein,99.0,24.0,0.0,0.3,seafood;protein,shellfish
+Tofu (firm),protein,76.0,8.0,1.9,4.8,soy;protein;vegetarian,soy
+Tempeh,protein,193.0,19.0,9.4,10.8,soy;protein;vegetarian,soy
+Lean lamb (cooked),protein,206.0,25.6,0.0,11.0,meat;protein,
+Egg (whole),protein,155.0,13.0,1.1,11.0,egg;protein;dairy_like,egg
+Egg white (cooked),protein,52.0,11.0,0.7,0.2,egg;protein,egg
+Skim milk,protein,34.0,3.4,5.0,0.1,dairy;protein,milk
+Whole milk,protein,61.0,3.2,4.8,3.3,dairy;protein,milk
+Greek yogurt (plain),protein,59.0,10.0,3.6,0.4,dairy;protein,milk
+Cottage cheese (low-fat),protein,98.0,11.1,3.4,4.3,dairy;protein,milk
+Cheddar cheese,fat,402.0,25.0,1.3,33.0,dairy;fat,milk
+Lentils (cooked),protein,116.0,9.0,20.0,0.4,legume;protein;carb,
+Chickpeas (cooked),protein,164.0,8.9,27.4,2.6,legume;protein;carb,
+Black beans (cooked),protein,132.0,8.9,23.7,0.5,legume;protein;carb,
+Almonds,fat,579.0,21.2,21.6,49.9,nut;fat;snack,nuts
+Walnuts,fat,654.0,15.2,13.7,65.2,nut;fat;snack,nuts
+Peanut butter,fat,588.0,25.1,20.0,50.0,spread;fat;snack,peanuts
+Broccoli (cooked),veg,35.0,2.4,7.2,0.4,vegetable;veg,
+Spinach (raw),veg,23.0,2.9,3.6,0.4,vegetable;veg,
+Kale (raw),veg,49.0,4.3,9.0,0.9,vegetable;veg,
+Bell pepper (raw),veg,31.0,1.0,6.0,0.3,vegetable;veg,
+Carrot (raw),veg,41.0,0.9,10.0,0.2,vegetable;veg,
+Tomato (raw),veg,18.0,0.9,3.9,0.2,vegetable;veg,
+Banana,fruit,89.0,1.1,23.0,0.3,fruit;carb,
+Apple (with skin),fruit,52.0,0.3,14.0,0.2,fruit;carb,
+Orange,fruit,47.0,0.9,12.0,0.1,fruit;carb,
+Blueberries,fruit,57.0,0.7,14.5,0.3,fruit;carb,
+Olive oil,fat,884.0,0.0,0.0,100.0,oil;fat,
+Butter,fat,717.0,0.9,0.1,81.0,fat;dairy,milk
+Protein powder (whey),protein,400.0,80.0,8.0,6.0,supplement;protein,milk
+Granola,carb,471.0,10.0,64.0,20.0,snack;carb,nuts
+Black coffee (no sugar),other,1.0,0.0,0.0,0.0,beverage,
+Green tea (no sugar),other,1.0,0.0,0.0,0.0,beverage,
+Chicken thigh (cooked),meat;protein,209.0,26.0,0.0,10.9,meat;protein,
+Duck (cooked),meat;protein,337.0,19.0,0.0,28.0,meat;protein,
+Cod (cooked),fish;protein,82.0,18.0,0.0,0.7,fish;protein,fish
+Haddock (cooked),fish;protein,90.0,20.0,0.0,1.0,fish;protein,fish
+Mackerel (cooked),fish;protein;omega3,205.0,19.0,0.0,13.9,fish;protein;omega3,fish
+Sardines (canned),fish;protein;omega3,208.0,25.4,0.0,10.5,fish;protein;omega3,fish
+Edamame (cooked),legume;protein;vegetarian,121.0,11.9,8.9,5.2,legume;protein;vegetarian,soy
+Black-eyed peas (cooked),legume;protein,114.0,8.0,21.0,0.5,legume;protein,
+Kidney beans (cooked),legume;protein,127.0,8.7,22.8,0.5,legume;protein,
+Peas (cooked),vegetable;carb,81.0,5.4,14.5,0.4,vegetable;carb,
+Buckwheat (cooked),grain;pseudo,92.0,3.4,20.0,0.6,grain;pseudo,
+Barley (cooked),grain,123.0,2.3,28.2,0.4,grain,
+Millet (cooked),grain,120.0,3.5,23.7,1.0,grain,
+Couscous (cooked),grain,112.0,3.8,23.0,0.2,grain,
+Amaranth (cooked),grain;pseudo,102.0,3.8,19.0,1.6,grain;pseudo,
+Soba noodles (cooked),noodle;carb,99.0,5.1,21.0,0.1,noodle;carb,gluten
+Rice porridge (congee),carb;grain,50.0,1.2,11.0,0.1,carb;grain,
+Pancakes (prepared),carb;breakfast,227.0,6.0,28.0,9.0,carb;breakfast,gluten
+Bagel,carb;bread,250.0,10.0,49.0,1.5,carb;bread,gluten
+Tortilla (wheat),carb;wrap,237.0,6.0,49.0,3.5,carb;wrap,gluten
+Hummus,legume;spread,166.0,7.9,14.3,9.6,legume;spread,
+Sausage (pork),processed;meat,301.0,12.0,1.5,25.0,processed;meat,
+Ham (lean),meat;protein,145.0,20.9,1.5,5.0,meat;protein,
+Beef jerky,meat;snack,410.0,33.0,14.0,7.0,meat;snack,
+Canned beans (mixed),legume,110.0,6.0,18.0,1.0,legume,
+Mashed potato (prepared),carb;side,88.0,1.8,20.0,0.3,carb;side,
+Polenta (cooked),carb,70.0,1.5,15.0,0.5,carb,
+Whole grain crackers,snack;carb,450.0,7.0,70.0,12.0,snack;carb,gluten
+Rice crackers,snack;carb,387.0,6.0,80.0,2.0,snack;carb,
+Dark chocolate (70%),snack;treat,598.0,7.8,46.0,42.0,snack;treat,milk
+Popcorn (air-popped),snack;carb,387.0,12.9,78.9,4.5,snack;carb,
+Oat bran,grain;fiber,246.0,17.3,66.2,7.0,grain;fiber,gluten
+Wheat bran,grain;fiber,216.0,15.6,64.5,4.3,grain;fiber,gluten
+Soy milk (unsweetened),dairy_alternative;protein,33.0,3.3,0.6,1.8,dairy_alternative;protein,soy
+Almond milk (unsweetened),dairy_alternative,15.0,0.4,0.3,1.2,dairy_alternative,nuts
+Cottage cheese (full-fat),dairy;protein,98.0,11.0,3.4,4.3,dairy;protein,milk
+Ricotta,dairy,174.0,11.5,3.0,13.0,dairy,milk
+Mozzarella,dairy,280.0,22.0,2.2,17.0,dairy,milk
+Parmesan,dairy,431.0,38.0,4.1,29.0,dairy,milk
+Sour cream (light),dairy,193.0,2.0,4.0,20.0,dairy,milk
+Green peas (frozen cooked),veg,81.0,5.4,14.5,0.4,veg,
+Asparagus (cooked),veg,22.0,2.2,3.9,0.2,veg,
+Mushrooms (button cooked),veg,22.0,3.1,3.3,0.3,veg,
+Eggplant (cooked),veg,35.0,1.0,8.6,0.2,veg,
+Zucchini (cooked),veg,17.0,1.2,3.1,0.3,veg,
+Cucumber (raw),veg,16.0,0.7,3.6,0.1,veg,
+Avocado (raw),fruit,160.0,2.0,9.0,15.0,fruit;fat,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
+Cooked white rice (var),carb,130.0,2.7,28.0,0.3,grain;carb,
